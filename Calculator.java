@@ -1,4 +1,3 @@
-import javax.imageio.plugins.tiff.FaxTIFFTagSet;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
